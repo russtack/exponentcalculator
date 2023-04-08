@@ -1,0 +1,15 @@
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\bin\Debug\net6.0\ExponentCalc.exe
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\bin\Debug\net6.0\ExponentCalc.deps.json
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\bin\Debug\net6.0\ExponentCalc.runtimeconfig.json
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\bin\Debug\net6.0\ExponentCalc.dll
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\bin\Debug\net6.0\ExponentCalc.pdb
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\obj\Debug\net6.0\ExponentCalc.csproj.AssemblyReference.cache
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\obj\Debug\net6.0\ExponentCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\obj\Debug\net6.0\ExponentCalc.AssemblyInfoInputs.cache
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\obj\Debug\net6.0\ExponentCalc.AssemblyInfo.cs
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\obj\Debug\net6.0\ExponentCalc.csproj.CoreCompileInputs.cache
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\obj\Debug\net6.0\ExponentCalc.dll
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\obj\Debug\net6.0\refint\ExponentCalc.dll
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\obj\Debug\net6.0\ExponentCalc.pdb
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\obj\Debug\net6.0\ExponentCalc.genruntimeconfig.cache
+C:\Users\rsapa\source\repos\ExponentCalc\ExponentCalc\obj\Debug\net6.0\ref\ExponentCalc.dll
